@@ -3,4 +3,4 @@
 ![serch](https://user-images.githubusercontent.com/104442595/167285261-4d2ff09d-0205-421c-80ba-28e117b00702.gif)
 
 ***
-[News API](https://newsapi.org)
+API - [News API](https://newsapi.org)
